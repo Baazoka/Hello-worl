@@ -1,3 +1,5 @@
-# Hello-worl
+# Hello-world
 My first try in GitHub
-Didn't code before or study programing
+I work in the United Nations
+=======
+Didn't code before or study programing.
